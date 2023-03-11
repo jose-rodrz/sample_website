@@ -1,0 +1,10 @@
+.nav-spacing {
+    margin: 0 0 0 10px;
+    background-color: #f1ece1;
+    outline: rgb(228, 151, 8);
+    outline-style:dotted;
+  }
+
+  .nav-menu {
+    text-align: right;
+  }
