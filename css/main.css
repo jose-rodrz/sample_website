@@ -8,3 +8,7 @@
   .nav-menu {
     text-align: right;
   }
+
+  .image-link {
+    text-decoration: none;
+  }
